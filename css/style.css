@@ -19,7 +19,7 @@ header {width: 100%; height: 10%; position: fixed; top: 0; left: 0; right: 0; z-
 #nav .submenu li {width: 100%; z-index: 3;}
 #nav .submenu li a:hover {background-color: pink;}
 
-/* slide */
+/* scroll */
 section {width: 100%; height: 2400px;}
 section div {width: 100%; height: 800px;}
 section div {width: 100%; height: 800px;}
@@ -30,7 +30,7 @@ section div {width: 100%; height: 800px;}
 /* img1 */
 #image1 {width: 100%; height: 800px; position: relative;}
 #msg {display: block; position: absolute; font-size: 120px; font-family: godo;
-      text-align: right; left: 800px; float: right; color: white; top: 200px; height: 260px;}
+      text-align: right; right: 0; float: right; color: white; top: 200px; height: 260px;}
 
 /* img2 */
 #image2 {width: 100%; height: 800px; position: relative;}
